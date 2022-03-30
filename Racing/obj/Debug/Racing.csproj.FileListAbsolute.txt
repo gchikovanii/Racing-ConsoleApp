@@ -1,0 +1,8 @@
+C:\Users\chiqo\source\repos\Projects\Racing\Racing\bin\Debug\Racing.exe.config
+C:\Users\chiqo\source\repos\Projects\Racing\Racing\bin\Debug\Racing.exe
+C:\Users\chiqo\source\repos\Projects\Racing\Racing\bin\Debug\Racing.pdb
+C:\Users\chiqo\source\repos\Projects\Racing\Racing\obj\Debug\Racing.csproj.AssemblyReference.cache
+C:\Users\chiqo\source\repos\Projects\Racing\Racing\obj\Debug\Racing.csproj.SuggestedBindingRedirects.cache
+C:\Users\chiqo\source\repos\Projects\Racing\Racing\obj\Debug\Racing.csproj.CoreCompileInputs.cache
+C:\Users\chiqo\source\repos\Projects\Racing\Racing\obj\Debug\Racing.exe
+C:\Users\chiqo\source\repos\Projects\Racing\Racing\obj\Debug\Racing.pdb
