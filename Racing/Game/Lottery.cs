@@ -36,7 +36,7 @@ namespace Racing
                 if (driver != null)
                 {
                     var lucky = _lotteryService.PlayLottery();
-                    if (lucky && driver.NumberOfRace >= 5)
+                    if (lucky && driver.NumberOfRace <= 5)
                     {
                         if (garage != null)
                         {
